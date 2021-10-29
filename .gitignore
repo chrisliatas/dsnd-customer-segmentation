@@ -148,3 +148,5 @@ cython_debug/
 
 # Data files
 *.csv
+# Excel temporary
+~$*.xls*
