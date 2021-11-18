@@ -76,6 +76,17 @@ The datasets we had to work with were quite large requiring a lot of cleaning an
 
 The project concludes with submission of the predicted probabilities to the relevant [Kaggle competition](http://www.kaggle.com/t/21e6d45d4c574c7fa2d868f0e8c83140). However, by the time I was able to make these predictions with my selected model the competition had closed, not accepting any more submissions.
 
+## Files and project file structure
+
+Important files:
+
+* `Arvato Project Workbook.ipynb` the jupyter notebook containing analysis.
+* `Arvato Project Workbook.html` a snapshot of the notebook for presentation purposes.
+* `DIAS Attributes - Values 2017.xlsx`: a detailed mapping of data values for each feature in alphabetical order.
+* `DIAS Information Levels - Attributes 2017.xlsx`: a top-level list of attributes and descriptions, organized by informational category.
+* `img`: directory with results images saved from `Arvato Project Workbook.ipynb`
+* `arvato_data_terms_and_conditions`: directory with the terms and conditions for Arvato's data.
+
 ## Acknowledgments
 
 * This project has been created as part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) course.
